@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: Kontakt
 permalink: /about/
 ---
 
-Some information about you!
+Chcesz o coś spytać? Masz pytania do projektu? Chcesz pochwalić się tym co zrobiłeś? Napisz email albo wiadomość w jednym z kanałów ze stopki.
 
-### More Information
+Proszę wpisz w tytule maila <code>[IJNPON]</code> albo <code>[IJNCZW]</code> w zależności od Twojej grupy projektowej - poniedziałkowa albo czwartekowa.
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[lukasz.augustyniak@pwr.edu.pl](mailto:lukasz.augustyniak@pwr.edu.pl)
