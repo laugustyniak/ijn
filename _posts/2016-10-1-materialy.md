@@ -9,6 +9,6 @@ title: Materiały i przydatne linki
 
 3. Narzędzia w postaci usług webowych (warto sprawdzić jak one działają tutaj) [http://clarin-pl.eu/pl/uslugi/](http://clarin-pl.eu/pl/uslugi/)
 
-4. Google + automatyczne odpowiadanie na maile - [https://research.googleblog.com/2015/11/computer-respond-to-this-email.html]
+4. Google + automatyczne odpowiadanie na maile - [https://research.googleblog.com/2015/11/computer-respond-to-this-email.html](https://research.googleblog.com/2015/11/computer-respond-to-this-email.html)
 
 * jeśli znalazłeś inne materiały, którymi warto się podzielić z resztą grupy napisz (dodatkowe za każde polecenie dodatkowe punkty przy zalcizeniu!)
