@@ -11,4 +11,6 @@ title: Materiały i przydatne linki
 
 4. Google + automatyczne odpowiadanie na maile - [https://research.googleblog.com/2015/11/computer-respond-to-this-email.html](https://research.googleblog.com/2015/11/computer-respond-to-this-email.html)
 
+5. Generowanie tekstu [https://github.com/karpathy/char-rnn](https://github.com/karpathy/char-rnn)
+
 * jeśli znalazłeś inne materiały, którymi warto się podzielić z resztą grupy napisz (dodatkowe za każde polecenie dodatkowe punkty przy zalcizeniu!)
