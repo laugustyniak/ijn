@@ -13,4 +13,8 @@ title: Materiały i przydatne linki
 
 5. Generowanie tekstu [https://github.com/karpathy/char-rnn](https://github.com/karpathy/char-rnn)
 
+6. Sumaryzacja tekstów bazujący na TensorFlow [https://github.com/tensorflow/models/tree/master/textsum](https://github.com/tensorflow/models/tree/master/textsum)
+
+7. Tutoriale dla TensorFlow [https://www.tensorflow.org/versions/r0.11/tutorials](https://www.tensorflow.org/versions/r0.11/tutorials) jest także podrozdział o przetwarzaniu języka
+
 * jeśli znalazłeś inne materiały, którymi warto się podzielić z resztą grupy napisz (dodatkowe za każde polecenie dodatkowe punkty przy zalcizeniu!)
