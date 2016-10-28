@@ -17,4 +17,10 @@ title: Materiały i przydatne linki
 
 7. Tutoriale dla TensorFlow [https://www.tensorflow.org/versions/r0.11/tutorials](https://www.tensorflow.org/versions/r0.11/tutorials) jest także podrozdział o przetwarzaniu języka
 
+8. WordNety - warto badania prof. Bonda zobaczyć [http://www.ntu.edu.sg/home/fcbond/](http://www.ntu.edu.sg/home/fcbond/) oraz Open Multilingual Wordnet [http://compling.hss.ntu.edu.sg/omw/](http://compling.hss.ntu.edu.sg/omw/)
+
+9. Word2Vec modele dla polskiego - [http://mozart.ipipan.waw.pl/~axw/models/lemma/](http://mozart.ipipan.waw.pl/~axw/models/lemma/)
+
+10. Zbiór danych Opineo [https://own.datasciencegroup.pl/index.php/s/nDlYlnptbXmo8BT](https://own.datasciencegroup.pl/index.php/s/nDlYlnptbXmo8BT) Uwaga! Gdyby link wygasł proszę o wiadomość w tej sprawie. 
+
 * jeśli znalazłeś inne materiały, którymi warto się podzielić z resztą grupy napisz (dodatkowe za każde polecenie dodatkowe punkty przy zalcizeniu!)
