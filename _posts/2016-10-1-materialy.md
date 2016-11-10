@@ -21,6 +21,8 @@ title: Materiały i przydatne linki
 
 9. Word2Vec modele dla polskiego - [http://mozart.ipipan.waw.pl/~axw/models/lemma/](http://mozart.ipipan.waw.pl/~axw/models/lemma/)
 
-10. Zbiór danych Opineo [https://own.datasciencegroup.pl/index.php/s/nDlYlnptbXmo8BT](https://own.datasciencegroup.pl/index.php/s/nDlYlnptbXmo8BT) Uwaga! Gdyby link wygasł proszę o wiadomość w tej sprawie. 
+10. Model słów Word2Vec, [https://clarin-pl.eu/dspace/handle/11321/327](https://clarin-pl.eu/dspace/handle/11321/327). Posiada zwinięte nazwy własne i wielowyrazowce do jednego tokenu. Liczony był na sieci z wielkością warstw ukrytych = 100.
+
+11. Zbiór danych Opineo [https://own.datasciencegroup.pl/index.php/s/nDlYlnptbXmo8BT](https://own.datasciencegroup.pl/index.php/s/nDlYlnptbXmo8BT) Uwaga! Gdyby link wygasł proszę o wiadomość w tej sprawie. 
 
 * jeśli znalazłeś inne materiały, którymi warto się podzielić z resztą grupy napisz (dodatkowe za każde polecenie dodatkowe punkty przy zalcizeniu!)
