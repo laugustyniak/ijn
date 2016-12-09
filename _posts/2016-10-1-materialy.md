@@ -25,4 +25,6 @@ title: Materiały i przydatne linki
 
 11. Zbiór danych Opineo [https://own.datasciencegroup.pl/index.php/s/nDlYlnptbXmo8BT](https://own.datasciencegroup.pl/index.php/s/nDlYlnptbXmo8BT) Uwaga! Gdyby link wygasł proszę o wiadomość w tej sprawie. 
 
+12. Generowanie kolejnych znaków [https://github.com/offbit/char-models](https://github.com/offbit/char-models)
+
 * jeśli znalazłeś inne materiały, którymi warto się podzielić z resztą grupy napisz (dodatkowe za każde polecenie dodatkowe punkty przy zalcizeniu!)
