@@ -27,4 +27,6 @@ title: Materiały i przydatne linki
 
 12. Generowanie kolejnych znaków [https://github.com/offbit/char-models](https://github.com/offbit/char-models)
 
+13. CNN dla NLP [http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
+
 * jeśli znalazłeś inne materiały, którymi warto się podzielić z resztą grupy napisz (dodatkowe za każde polecenie dodatkowe punkty przy zalcizeniu!)
